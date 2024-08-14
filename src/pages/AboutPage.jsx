@@ -10,28 +10,25 @@ function AboutPage() {
                 <div className="flex justify-center space-x-4">
                     <div className="text-center">
                         <FadeInComponent
-                            img_url="https://i.pinimg.com/originals/36/e1/ee/36e1ee31bfb9db608eb1c235d2b0a921.gif"
-                            tw_css="w-50 h-50 mx-auto mt-10 rounded-xl"
-                        />
+                            img_url="https://i1.sndcdn.com/artworks-D4tA2gefvGQHFwjH-oR0vvQ-t500x500.jpg"
+                            tw_css="w-80 h-80 mx-auto mt-10 rounded-xl"/>
                         <h1 className="font-bold text-2xl">Paramet Kitchanwit</h1>
                         <h1 className="text-2xl">Frontend Developer</h1>
                     </div>
                     <div className="text-center">
                         <FadeInComponent
-                            img_url="https://play-lh.googleusercontent.com/Vy7GjKd_v81EiDTw5uWJHU0ORUu4_zuzTqUCNFn4El-Yeh5sDwNI8ccrCPAw7rEWcR4=w240-h480-rw"
-                            tw_css="w-80 h-80 mx-auto mt-10 rounded-xl"
-                        />
+                            img_url="https://i1.sndcdn.com/artworks-D4tA2gefvGQHFwjH-oR0vvQ-t500x500.jpg"
+                            tw_css="w-50 h-50 mx-auto mt-10 rounded-xl"/>
 
                         <h1 className="font-bold text-2xl">Dhouchdhanin Leechewyuwasorn</h1>
                         <h1 className="text-2xl">AI Developer</h1>
                     </div>
                     <div className="text-center">
                         <FadeInComponent
-                            img_url="https://play-lh.googleusercontent.com/Vy7GjKd_v81EiDTw5uWJHU0ORUu4_zuzTqUCNFn4El-Yeh5sDwNI8ccrCPAw7rEWcR4=w240-h480-rw"
-                            tw_css="w-50 h-50 mx-auto mt-10 rounded-xl"
-                        />
-                                                <h1 className="font-bold text-2xl">Sahut Chensirasoorath</h1>
-                                                <h1 className="text-2xl">Full Stack Developer</h1>
+                            img_url="https://i1.sndcdn.com/artworks-D4tA2gefvGQHFwjH-oR0vvQ-t500x500.jpg"
+                            tw_css="w-80 h-80 mx-auto mt-10 rounded-xl"/>
+                        <h1 className="font-bold text-2xl">Sahut Chensirasoorath</h1>
+                        <h1 className="text-2xl">Full Stack Developer</h1>
 
                     </div>
                 </div>
