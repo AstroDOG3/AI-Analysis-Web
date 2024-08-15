@@ -39,7 +39,7 @@ function NavBar() {
     return (
         <nav className="navbar border-b-2 p-4">
             <div className="flex justify-between items-center">
-                <div className="text-3xl font-bold">MyApp</div>
+                <div className="text-3xl font-bold">AI Analyst</div>
                 <div className="md:hidden">
                     <button onClick={toggleDropdown} className="text-xl focus:outline-none">
                         {/* Hamburger Icon */}
