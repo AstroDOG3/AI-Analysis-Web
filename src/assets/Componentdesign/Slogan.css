@@ -3,8 +3,8 @@
   
   /* Custom heading styles */
   .custom-heading {
-    color: hsl(0, 0%, 28%);
-    font-size: 50px;
+    color: hsl(0, 100%, 99%);
+    font-size: 80px;
     font-weight: bold;
     font-family: monospace;
     letter-spacing: 7px;
@@ -14,6 +14,7 @@
   /* Add hover effects for spans inside the heading */
   .custom-heading span {
     transition: 0.5s ease-out;
+    color: hsl(0, 0%, 100%);
   }
   
   .custom-heading:hover span:nth-child(1) {
@@ -21,14 +22,9 @@
   }
   
   .custom-heading:hover span:nth-child(1):after {
-    content: "'";
-  }
-  
-  .custom-heading:hover span:nth-child(2) {
-    margin-left: 30px;
-  }
+    content: "   FINACIAL  ";}
   
   .custom-heading:hover span {
-    color: #fff;
+    color: rgb(255, 213, 0);
     text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #fff;
   }

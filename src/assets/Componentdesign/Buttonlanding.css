@@ -1,0 +1,14 @@
+.custom-button {
+    padding: 12px 24px;
+    background-color: rgba(255, 255, 255, 0.1); /* Initially transparent */
+    color: rgba(255, 255, 255, 0.8); /* Light white text */
+    border: 2px solid rgba(255, 255, 255, 0.5); /* Light white border */
+    border-radius: 8px;
+    transition: background-color 0.3s ease, color 0.3s ease, border 0.3s ease;
+  }
+  
+  .custom-button:hover {
+    background-color: rgba(0, 0, 0, 0.5); /* Black with 50% opacity */
+    color: rgba(255, 255, 255, 1); /* Full white text */
+    border: 2px solid rgba(255, 255, 255, 1); /* Full white border */
+  }
